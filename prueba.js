@@ -60,3 +60,7 @@
 // Esto con la finalidad de tener archivos o ediciones contenidas en diferentes ramas, a las cuales le puedo hacer un request para combinarla con la principal
 
 // git revert más el numero del commit // esto para revertir algún cambio
+
+
+// ERROR // untracked files: (use "git add <file>..." to include in what will be committed)
+//Debo eliminar el git que se encuentra dentro de esa carpeta OJO
